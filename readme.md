@@ -10,7 +10,7 @@ Hi there! I'm Roberto, a programmer from Argentina with a youthful spirit full o
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rcrossa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rcrossa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rcrossa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
