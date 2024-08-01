@@ -12,9 +12,6 @@ Hi there! I'm Roberto, a programmer from Argentina with a youthful spirit full o
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rcrossa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rcrossa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rcrossa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 
   ## 💰 You can help me by Donating
