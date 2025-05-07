@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Roberto, a passionate programmer from Argentina, always driven to seek new knowledge and tackle challenges. I thrive on exploring emerging technologies and dedicate myself to improving my skills daily. My goal is to make a significant impact in the software development world by contributing to innovative projects and collaborating with talented teams. I am a firm believer in continuous learning and am enthusiastic about both contributing to and learning from the open-source community.
+Hi there! I'm Roberto, a programmer from Argentina with a dynamic approach and a deep-seated passion for technology. I am constantly seeking opportunities to expand my knowledge base, take on new challenges, and master emerging technologies, pushing myself to enhance my skillset every day. My ambition is to excel in the software development field by actively contributing to impactful projects and collaborating effectively with fellow talented developers. I view learning as a lifelong journey and am eager to engage with the open-source community, both as a contributor and a learner.
 
 
 ## 🌐 Socials:
